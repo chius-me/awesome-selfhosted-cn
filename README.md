@@ -107,10 +107,12 @@
 ## AI
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - 基于节点流程的 AI 图像生成界面（Stable Diffusion）。
 - [Dify](https://github.com/langgenius/dify) - 可视化的 LLM 应用开发平台，支持 RAG、Agent、工作流。
+- [Hermes Agent](https://github.com/NousResearch/hermes-agent) - Nous Research 出品的通用 AI Agent 框架。
 - [LobeHub](https://github.com/lobehub/lobe-chat) - 现代化 AI/LLM 聊天应用，支持多模型和插件。
-- [New API](https://github.com/QuantumNous/new-api) - OpenAI API 格式的统一聚合与中转代理。
+- [New API](https://github.com/songquanpeng/new-api) - OpenAI API 格式的统一聚合与中转代理。
 - [n8n](https://github.com/n8n-io/n8n) - 可自托管的工作流自动化平台，连接 AI 和各类服务。
 - [Open WebUI](https://github.com/open-webui/open-webui) - 大语言模型聊天界面，兼容 Ollama 和 OpenAI API。
+- [OpenClaw](https://github.com/openclaw/openclaw) - 自托管的个人 AI 助手，支持多平台接入和实时通信。
 
 ## 开发与部署
 - [Argo CD](https://github.com/argoproj/argo-cd) - Kubernetes 声明式 GitOps 持续交付工具。
