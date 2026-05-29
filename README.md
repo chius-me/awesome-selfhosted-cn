@@ -45,8 +45,8 @@
 - [Immich](https://github.com/immich-app/immich) - 自托管的照片/视频备份与管理平台，功能对标 Google Photos。
 - [Jellyfin](https://github.com/jellyfin/jellyfin) - 免费软件媒体系统，Emby 的分支，无任何高级功能限制。
 - [Komga](https://github.com/gotson/komga) - 漫画/电子书媒体服务器，支持多用户阅读进度同步。
-- [MetaTube](https://github.com/metatube-community/jellyfin-plugin-metatube) - Jellyfin 元数据刮削插件，优化中文影视资源匹配。
-- [MeTube](https://github.com/alexta69/metube) - YouTube/视频网站下载的 Web UI 工具。
+- [MetaTube](https://github.com/metatube-community/jellyfin-plugin-metatube) - Jellyfin 元数据刮削插件，用于刮削小姐姐。
+- [MeTube](https://github.com/alexta69/metube) - YouTube/Bilibili 视频下载的 Web UI 工具。
 - [MoviePilot](https://github.com/jxxghp/MoviePilot) - 基于 NASTool 重构的基于 PT 站的自动化观影应用。
 - [Navidrome](https://github.com/navidrome/navidrome) - 自托管的音乐流媒体服务，兼容 Subsonic API。
 - [PhotoPrism](https://github.com/photoprism/photoprism) - 基于 AI 的照片管理应用，自动标签和分类。
@@ -68,6 +68,7 @@
 ## 文件管理
 - [Alist](https://github.com/alist-org/alist) - 支持多种存储的文件列表程序，提供 WebDAV 服务。
 - [MinIO](https://github.com/minio/minio) - 高性能、兼容 S3 协议的对象存储系统。
+- [OpenList](https://github.com/OpenListTeam/OpenList) - 支持多种存储的文件列表程序，提供 WebDAV 服务（Alist 的分支）。
 - [Syncthing](https://github.com/syncthing/syncthing) - 去中心化的文件同步工具，无需中央服务器。
 
 ## 下载
@@ -90,7 +91,6 @@
 - [it-tools](https://github.com/CorentinTh/it-tools) - 开发者在线工具合集（编码、加密、IP 查询等）。
 - [Kiwix](https://github.com/kiwix) - 离线 Wikipedia 阅读器，将维基百科等内容打包为 ZIM 离线使用。
 - [Mealie](https://github.com/mealie-recipes/mealie) - 自托管的食谱管理应用，支持导入、计划和购物清单。
-- [OpenList](https://github.com/OpenListTeam/OpenList) - 开源的在线清单/列表管理工具。
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - 开源简历制作工具，支持多模板和实时预览。
 - [SearXNG](https://github.com/searxng/searxng) - 去中心化的元搜索引擎，保护隐私不追踪用户。
 - [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - 功能强大的 PDF 在线处理工具（合并、分割、转换等）。
@@ -124,10 +124,14 @@
 - [NapCat](https://github.com/NapNeko/NapCatQQ) - 基于 QQ 的轻量级 Bot 框架。
 
 ## 博客与社交
+- [Ghost](https://github.com/TryGhost/Ghost) - 专注于专业创作的博客平台， Node.js 驱动。
 - [GoToSocial](https://gotosocial.org/) - 轻量级 ActivityPub 社交服务器，兼容 Mastodon 联邦。
 - [Halo](https://github.com/halo-dev/halo) - 强大易用的开源建站工具。
+- [Hexo](https://github.com/hexojs/hexo) - 快速、简洁且高效的静态博客框架。
 - [Hugo](https://github.com/gohugoio/hugo) - 世界上最快的静态网站生成器。
 - [SiYuan](https://github.com/siyuan-note/siyuan) - 融合块、大纲和双向链接的本地优先个人知识管理系统。
+- [Typecho](https://github.com/typecho/typecho) - 轻量级 PHP 博客程序，简洁优雅。
+- [WordPress](https://github.com/WordPress/WordPress) - 全球最流行的开源博客和 CMS 平台。
 
 ## 贡献指南 (Contributing)
 欢迎提交 PR！
