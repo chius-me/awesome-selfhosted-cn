@@ -24,5 +24,26 @@
 
 ---
 
+## NAS 系统与面板 (NAS Systems & Dashboards)
+- [1Panel](https://github.com/1Panel-dev/1Panel) - 现代化、开源的 Linux 服务器运维管理面板。 `[🇨🇳 国产]` `[🔥 热门]`
+- [CasaOS](https://github.com/IceWhaleTech/CasaOS) - 一个简单、易用、优雅的开源家庭云系统。 `[🇨🇳 国产]` `[🔥 热门]`
+
+## 媒体中心与刮削 (Media Centers & Scrapers)
+- [Jellyfin](https://github.com/jellyfin/jellyfin) - 免费软件媒体系统，Emby 的分支，无任何高级功能限制。 `[🌐 汉化]` `[🔥 热门]`
+- [MoviePilot](https://github.com/jxxghp/MoviePilot) - 基于 NASTool 重构的基于 PT 站的自动化观影应用。 `[🇨🇳 国产]` `[🔥 热门]`
+
+## 网络、代理与穿透 (Networking, Proxies & Tunnels)
+- [frp](https://github.com/fatedier/frp) - 一个专注于内网穿透的高性能的反向代理应用，支持 TCP、UDP、HTTP、HTTPS 等多种协议。 `[🇨🇳 国产]` `[🔥 热门]`
+- [NPS](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。 `[🇨🇳 国产]`
+- [Tailscale](https://github.com/tailscale/tailscale) - 基于 WireGuard 的零配置 VPN 组网工具。 `[🔥 热门]`
+
+## 下载器与文件分享 (Downloaders & File Sharing)
+- [Alist](https://github.com/alist-org/alist) - 一个支持多种存储，支持网页浏览和 WebDAV 的文件列表程序。 `[🇨🇳 国产]` `[🔥 热门]`
+- [Aria2](https://github.com/aria2/aria2) - 轻量级多协议和多源命令行下载工具。 `[🌐 汉化]`
+
+## 博客、笔记与 Wiki (Blogs, Notes & Wikis)
+- [Halo](https://github.com/halo-dev/halo) - 强大易用的开源建站工具。 `[🇨🇳 国产]` `[🔥 热门]`
+- [SiYuan](https://github.com/siyuan-note/siyuan) - 融合块、大纲和双向链接的本地优先个人知识管理系统。 `[🇨🇳 国产]`
+
 ## 贡献指南 (Contributing)
 欢迎提交 PR！请确保推荐的项目符合本列表的初衷（适合国内用户）。添加新项目时，请保持分类内的**字母顺序**排列，并正确使用上述标签。
