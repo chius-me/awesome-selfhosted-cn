@@ -134,4 +134,4 @@
 - [WordPress](https://github.com/WordPress/WordPress) - 全球最流行的开源博客和 CMS 平台。
 
 ## 贡献指南 (Contributing)
-欢迎提交 PR！
+欢迎提交 Pull Request！新项目请保持分类内字母顺序排列，并附上简要描述。
