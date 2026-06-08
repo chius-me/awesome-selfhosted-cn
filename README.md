@@ -57,6 +57,7 @@
 - [Cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel 客户端，免公网 IP 将内网 Web 服务安全暴露。
 - [DDNS-Go](https://github.com/jeessy2/ddns-go) - 极简动态域名解析客户端，支持阿里、腾讯、Cloudflare 等主流服务商。
 - [frp](https://github.com/fatedier/frp) - 高性能内网穿透反向代理工具，支持多协议流量安全转发。
+- [HAProxy](https://github.com/haproxy/haproxy) - 高可靠 TCP/HTTP 负载均衡器，广泛用于流量分发、高可用与 TLS 终结。
 - [Lucky](https://github.com/gdy666/lucky) - 国人家庭网络工具箱，集成 DDNS、反代、端口转发、内网穿透与 WOL 唤醒。
 - [MetaCubeXD](https://github.com/MetaCubeX/metacubexd) - Mihomo/Clash-Meta 内核的现代 Web 监控与控制面板。
 - [Mihomo](https://github.com/MetaCubeX/mihomo) - Clash-Meta 的继任者，基于可定制规则的多协议网络代理内核。
@@ -89,6 +90,7 @@
 - [Linkding](https://github.com/sissbruecker/linkding) - 轻量自托管书签管理器，支持可定制标签与批量搜索，无多余功能。
 
 ## 工具
+- [EVE-NG](https://www.eve-ng.net/) - 多厂商网络设备模拟平台，支持 Cisco、Juniper、华为等数百种设备镜像，适合网络实验与认证备考。
 - [Glance](https://github.com/glanceapp/glance) - 极简个人聚合首页，将 RSS、天气、书签与网络状态汇总于一张卡片式仪表盘。
 - [it-tools](https://github.com/CorentinTh/it-tools) - 开发者在线工具箱，内置上百种编码转换、加密调试与实用算法。
 - [Kiwix](https://github.com/kiwix) - 离线百科阅读器，支持维基百科、StackOverflow 等离线数据库，适合断网环境。
@@ -109,6 +111,7 @@
 - [Home Assistant](https://github.com/home-assistant/core) - 开源智能家居平台，将千百种不同协议的智能设备统一接入，实现高级联动。
 
 ## AI
+- [AstrBot](https://github.com/AstrBotDevs/AstrBot) - 支持多 IM 平台的 AI Agent 开发框架，集成了 QQ、Telegram、Discord 等渠道与 LLM/插件体系，可替代 OpenClaw 实现个人 AI 助手。
 - [Cherry Studio](https://github.com/cherry-studio/cherry-studio) - 高颜值多模型 AI 桌面客户端，适配自托管 AI 网关与本地开源模型。
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - 基于节点工作流的 AI 图像生成界面，Stable Diffusion 工业级出图的首选。
 - [Dify](https://github.com/langgenius/dify) - 可视化 LLM 应用开发平台，支持 RAG、工作流编排与 Agent 智能代理。
@@ -123,6 +126,7 @@
 - [Argo CD](https://github.com/argoproj/argo-cd) - Kubernetes 声明式 GitOps 持续交付平台，应用状态与 Git 仓库自动同步。
 - [Authentik](https://github.com/goauthentik/authentik) - 一站式开源身份认证提供商，支持 SSO、LDAP、SAML 与多因素认证。
 - [CloudBeaver](https://github.com/dbeaver/cloudbeaver) - Web 端数据库管理面板，免客户端直连 PostgreSQL、MySQL、ClickHouse 等。
+- [Docker Registry](https://github.com/distribution/distribution) - 官方 Docker 镜像仓库分发工具，自建 CI/CD 中存储与管理容器镜像的核心组件。
 - [Forgejo](https://forgejo.org) - 社区驱动的轻量级 Git 托管平台，Gitea 的完全独立分支。
 - [Gitea](https://github.com/go-gitea/gitea) - 性能优异的轻量级自托管 Git 服务，全能型代码仓库平台。
 - [GitLab](https://about.gitlab.com/) - 企业级 DevOps 协同平台，内置完整的 CI/CD 流程与项目管理。
