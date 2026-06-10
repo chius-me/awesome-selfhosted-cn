@@ -50,6 +50,7 @@
 - [MoviePilot](https://github.com/jxxghp/MoviePilot) - 基于 PT/BT 的自动化观影闭环系统，集检索、订阅、下载、整理、刮削、洗版于一体。
 - [Navidrome](https://github.com/navidrome/navidrome) - 轻量级自托管音乐流媒体服务器，兼容 Subsonic API，支持主流音乐客户端。
 - [PhotoPrism](https://github.com/photoprism/photoprism) - 基于 AI 的智能照片管理服务，支持自动标签、地理位置聚类与人脸识别。
+- [RomM](https://github.com/rommapp/romm) - 自托管游戏 ROM 管理与在线模拟器播放平台，支持 400+ 平台元数据刮削、多磁盘游戏与模组管理，内置 EmulatorJS 浏览器游玩。
 
 ## 网络
 - [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) - 全网广告拦截与本地 DNS 防污染服务器，保护全家终端隐私。
