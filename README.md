@@ -1,9 +1,18 @@
+<div align="center">
+
 # Awesome Self-Hosted CN
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+专为中国 HomeLabber 整理的自托管项目精选列表。
 
-一个专为中国 HomeLabber 整理的自托管项目精选列表。
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![License](https://img.shields.io/badge/license-CC0--1.0-blue.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/chius-me/awesome-selfhosted-cn/pulls)
+
+[目录](#目录) · [收录准则](#-贡献指南-contributing) · [个人主页](https://chius.cc)
+
+</div>
+
+---
 
 与原版 [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) 不同，本项目并非其中文译版，而是优先收录：
 - 🇨🇳 国内开发者主导的优秀项目
@@ -145,5 +154,16 @@
 - [Typecho](https://github.com/typecho/typecho) - 极简 PHP 博客程序，资源消耗低，轻量优雅的代表。
 - [WordPress](https://github.com/WordPress/WordPress) - 全球使用最广泛的开源 CMS 与博客平台，插件与主题生态无出其右。
 
-## 贡献指南 (Contributing)
+## 🤝 贡献指南 (Contributing)
+
 欢迎提交 Pull Request！新项目请保持分类内字母顺序排列，并附上简要描述。
+
+---
+
+## 📄 License
+
+本项目采用 [CC0 1.0 Universal](LICENSE) 授权发布。
+
+<div align="center">
+  <sub>Curated with ❤️ by <a href="https://chius.cc">Chius</a></sub>
+</div>
