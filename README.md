@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/badge/license-CC0--1.0-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/chius-me/awesome-selfhosted-cn/pulls)
 
-[目录](#目录) · [收录准则](#-贡献指南-contributing) · [个人主页](https://chius.cc)
+[目录](#目录) · [收录准则](#-贡献指南-contributing)
 
 </div>
 
@@ -20,20 +20,24 @@
 - 🌐 拥有高质量中文本地化支持的项目
 
 ## 目录
-- [操作系统](#操作系统)
-- [媒体影音](#媒体影音)
-- [网络](#网络)
-- [文件管理](#文件管理)
-- [下载](#下载)
-- [密码管理](#密码管理)
-- [笔记与文档](#笔记与文档)
-- [书签](#书签)
-- [工具](#工具)
-- [监控与运维](#监控与运维)
-- [智能家居](#智能家居)
-- [AI](#ai)
-- [开发与部署](#开发与部署)
-- [博客与社交](#博客与社交)
+- [Awesome Self-Hosted CN](#awesome-self-hosted-cn)
+  - [目录](#目录)
+  - [操作系统](#操作系统)
+  - [媒体影音](#媒体影音)
+  - [网络](#网络)
+  - [文件管理](#文件管理)
+  - [下载](#下载)
+  - [密码管理](#密码管理)
+  - [笔记与文档](#笔记与文档)
+  - [书签](#书签)
+  - [工具](#工具)
+  - [监控与运维](#监控与运维)
+  - [智能家居](#智能家居)
+  - [AI](#ai)
+  - [开发与部署](#开发与部署)
+  - [博客与社交](#博客与社交)
+  - [🤝 贡献指南 (Contributing)](#-贡献指南-contributing)
+  - [📄 License](#-license)
 
 ---
 
