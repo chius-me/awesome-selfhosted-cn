@@ -50,6 +50,7 @@
 ## 媒体影音
 - [AutoBangumi](https://github.com/EstrellaXD/Auto_Bangumi) - 专为新番设计的全自动追番工具，配合 RSS 实现自动下载、重命名并推送刮削。
 - [bili-sync](https://github.com/amtoaer/bili-sync) - 轻量无痛的 B 站视频与番剧本地同步工具，自动下载追更并归档。
+- [Bili-SyncPlay](https://github.com/sky1wu/Bili-SyncPlay) - B 站视频远程同步观看工具，搭配浏览器扩展与自托管后端，实时同步播放、暂停、进度与倍速。
 - [BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder) - 全平台 B 站直播间自动录制工具，支持切片与开播提醒。
 - [Immich](https://github.com/immich-app/immich) - 自托管照片与视频备份平台，体验对标 Google Photos，内置 AI 人脸识别。
 - [Jellyfin](https://github.com/jellyfin/jellyfin) - 免费开源自建媒体服务器（Emby 分支），无高级功能限制，支持硬件解码。
@@ -58,12 +59,16 @@
 - [MeTube](https://github.com/alexta69/metube) - 基于 yt-dlp 的现代化音视频下载 Web 界面，一键下载 YouTube、Bilibili 等平台视频。
 - [MoviePilot](https://github.com/jxxghp/MoviePilot) - 基于 PT/BT 的自动化观影闭环系统，集检索、订阅、下载、整理、刮削、洗版于一体。
 - [Navidrome](https://github.com/navidrome/navidrome) - 轻量级自托管音乐流媒体服务器，兼容 Subsonic API，支持主流音乐客户端。
+- [Peach](https://github.com/peach-mitao/peach) - 本地优先的视频元数据刮削与媒体库管理工具，界面现代且专注本地片库整理。
 - [PhotoPrism](https://github.com/photoprism/photoprism) - 基于 AI 的智能照片管理服务，支持自动标签、地理位置聚类与人脸识别。
+- [Piik](https://github.com/TNTcraftHIM/Piik) - 轻量自托管低延迟屏幕共享平台，基于 WebRTC P2P 与 SFU 中继，支持房间语音、远程键鼠控制与网页免插件观看。
 - [RomM](https://github.com/rommapp/romm) - 自托管游戏 ROM 管理与在线模拟器播放平台，支持 400+ 平台元数据刮削、多磁盘游戏与模组管理，内置 EmulatorJS 浏览器游玩。
 
 ## 网络
+- [3x-ui](https://github.com/MHSanaei/3x-ui) - 多协议网络代理与流量监控 Web 控制面板，支持多用户管理、流量统计与自动 TLS 证书配置。
 - [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) - 全网广告拦截与本地 DNS 防污染服务器，保护全家终端隐私。
 - [Anubis](https://github.com/TecharoHQ/anubis) - 轻量防 AI 爬虫安全防火墙，通过特征请求精准拦截训练爬虫。
+- [Caddy](https://github.com/caddyserver/caddy) - Go 编写的现代 Web 服务器与反向代理，以开箱即用的自动 HTTPS 证书签发与极简配置著称。
 - [Cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel 客户端，免公网 IP 将内网 Web 服务安全暴露。
 - [DDNS-Go](https://github.com/jeessy2/ddns-go) - 极简动态域名解析客户端，支持阿里、腾讯、Cloudflare 等主流服务商。
 - [frp](https://github.com/fatedier/frp) - 高性能内网穿透反向代理工具，支持多协议流量安全转发。
@@ -71,10 +76,12 @@
 - [Lucky](https://github.com/gdy666/lucky) - 国人家庭网络工具箱，集成 DDNS、反代、端口转发、内网穿透与 WOL 唤醒。
 - [MetaCubeXD](https://github.com/MetaCubeX/metacubexd) - Mihomo/Clash-Meta 内核的现代 Web 监控与控制面板。
 - [Mihomo](https://github.com/MetaCubeX/mihomo) - Clash-Meta 的继任者，基于可定制规则的多协议网络代理内核。
+- [Nebula](https://github.com/slackhq/nebula) - Slack 开源的高性能去中心化 Overlay Mesh 组网工具，基于自签证书与点对点打洞实现跨网安全互联。
 - [NetBird](https://github.com/netbirdio) - 基于 WireGuard 的开源零信任 Full Mesh 虚拟组网平台。
 - [Nginx Proxy Manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - 可视化 Nginx 反代管理面板，内置 Let's Encrypt SSL 自动申请与续期。
 - [NPS](https://github.com/ehang-io/nps) - 带 Web 页面的高性能内网穿透/代理服务器，配置简单，功能齐全。
 - [OpenClash](https://github.com/vernesong/OpenClash) - OpenWrt/iStoreOS 路由器下的规则网络代理客户端。
+- [Sub-Store](https://github.com/sub-store-org/Sub-Store) - 功能丰富的高级代理订阅管理与格式转换工具，支持 Mihomo、Surge、Stash、Shadowrocket 等主流客户端。
 - [Tailscale](https://github.com/tailscale) - 基于 WireGuard 的零配置虚拟组网工具，轻松实现跨域内网互联。
 - [ZeroTier](https://github.com/zerotier) - 采用 SDN 技术的自组网穿透工具，将分布各地的设备连入同一虚拟局域网。
 
@@ -95,11 +102,13 @@
 - [Excalidraw](https://github.com/excalidraw/excalidraw) - 手绘风格在线白板与流程图工具，支持多人实时协作与移动端适配。
 - [Memos](https://github.com/usememos/memos) - 基于 SQLite 的超轻量个人随笔与闪念笔记，类微博/Twitter 体验，支持 Markdown。
 - [Outline](https://github.com/outline/outline) - 高颜值团队知识库与 Wiki 系统，支持 Markdown 实时协作与全文检索。
+- [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - 功能强大的开源个人文档归档管理系统，支持 PDF/图片 OCR 识别、自动打标分类与全文检索。
 
 ## 书签
 - [Linkding](https://github.com/sissbruecker/linkding) - 轻量自托管书签管理器，支持可定制标签与批量搜索，无多余功能。
 
 ## 工具
+- [Dawarich](https://github.com/Freika/dawarich) - Google Timeline（谷歌时间轴）的自托管替代品，支持轨迹导入、地图可视化足迹回顾与 Immich 联动。
 - [EVE-NG](https://www.eve-ng.net/) - 多厂商网络设备模拟平台，支持 Cisco、Juniper、华为等数百种设备镜像，适合网络实验与认证备考。
 - [Glance](https://github.com/glanceapp/glance) - 极简个人聚合首页，将 RSS、天气、书签与网络状态汇总于一张卡片式仪表盘。
 - [it-tools](https://github.com/CorentinTh/it-tools) - 开发者在线工具箱，内置上百种编码转换、加密调试与实用算法。
@@ -108,10 +117,13 @@
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - 免费自建个人简历生成器，支持多模板切换与实时 PDF 预览。
 - [SearXNG](https://github.com/searxng/searxng) - 隐私优先的元搜索引擎，聚合各大搜索引擎结果，不追踪用户。
 - [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - 全功能本地 PDF 处理器，支持合并、拆分、OCR、格式转换与去水印。
+- [TREK](https://github.com/liketrek/TREK) - 自托管开源旅行与行程规划平台，支持多人协作、地图路线、预算管理、离线 PWA 与 AI MCP 接入。
 
 ## 监控与运维
 - [1Panel](https://github.com/1Panel-dev/1Panel) - 现代化国产 Linux 面板，通过 Docker 一键安装运维 HomeLab 应用，内置容器化、备份与证书管理。
 - [Grafana](https://github.com/grafana/grafana) - 开源可视化监控面板，将 Prometheus、InfluxDB 等数据源转化为精美图表。
+- [Netdata](https://github.com/netdata/netdata) - 秒级高精度实时系统与容器性能监控平台，零配置自动发现并附带交互式 Web 看板。
+- [PeaNUT](https://github.com/Brandawg93/PeaNUT) - 轻量现代的 Network UPS Tools (NUT) Web 监控面板，实时展示 UPS 电量、负载与功耗状态。
 - [Portainer](https://github.com/portainer/portainer) - 轻量容器管理面板，提供 Docker/Kubernetes 的图形化监控与运维。
 - [Prometheus](https://github.com/prometheus/prometheus) - 云原生时序数据库与监控告警引擎，云原生生态的事实标准。
 - [Traccar](https://github.com/traccar/traccar) - GPS 实时位置追踪平台，支持上千种硬件设备与手机客户端。
@@ -123,12 +135,15 @@
 ## AI
 - [AstrBot](https://github.com/AstrBotDevs/AstrBot) - 支持多 IM 平台的 AI Agent 开发框架，集成了 QQ、Telegram、Discord 等渠道与 LLM/插件体系，可替代 OpenClaw 实现个人 AI 助手。
 - [Cherry Studio](https://github.com/cherry-studio/cherry-studio) - 高颜值多模型 AI 桌面客户端，适配自托管 AI 网关与本地开源模型。
+- [CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Go 编写的 AI CLI 代理服务，将 Claude Code、Codex、Gemini CLI 等工具封装为标准兼容 API 接口。
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - 基于节点工作流的 AI 图像生成界面，Stable Diffusion 工业级出图的首选。
 - [Dify](https://github.com/langgenius/dify) - 可视化 LLM 应用开发平台，支持 RAG、工作流编排与 Agent 智能代理。
 - [Hermes Agent](https://github.com/NousResearch/hermes-agent) - Nous Research 出品的通用 AI 智能体框架，带来未来自动化开发的更多可能。
+- [Langfuse](https://github.com/langfuse/langfuse) - 开源 AI 工程与 LLM 可观测性平台，支持调用链追踪、Prompt 版本管理、效果评估与成本统计。
 - [LobeHub](https://github.com/lobehub/lobe-chat) - 现代化 AI 聊天客户端，支持丰富插件与多模型切换。
 - [n8n](https://github.com/n8n-io/n8n) - 可自托管的低代码自动化工作流平台，支持接入各类 AI 模型与互联网服务。
 - [New API](https://github.com/songquanpeng/new-api) - 大模型 API 中转、分发与多商户计费管理，对标上游 One API 做了深度优化。
+- [OmniRoute](https://github.com/cheaper-inference/OmniRoute) - 开源大模型聚合路由与 API 网关，提供统一 OpenAI 兼容接口，支持多渠道故障切换与上下文压缩。
 - [Open WebUI](https://github.com/open-webui/open-webui) - 类 ChatGPT 界面的自建大语言模型 Web UI，完美适配 Ollama 离线模型。
 - [OpenClaw](https://github.com/openclaw/openclaw) - 自托管、高扩展性的个人 AI 语音与即时通信助手。
 
@@ -139,10 +154,12 @@
 - [Docker Registry](https://github.com/distribution/distribution) - 官方 Docker 镜像仓库分发工具，自建 CI/CD 中存储与管理容器镜像的核心组件。
 - [Forgejo](https://forgejo.org) - 社区驱动的轻量级 Git 托管平台，Gitea 的完全独立分支。
 - [Gitea](https://github.com/go-gitea/gitea) - 性能优异的轻量级自托管 Git 服务，全能型代码仓库平台。
+- [Gitea Mirror](https://github.com/RayLabsHQ/gitea-mirror) - 自动将 GitHub 仓库（含 Issue、PR、Release 与 Wiki）镜像同步至自建 Gitea 或 Forgejo 实例的工具。
 - [GitLab](https://about.gitlab.com/) - 企业级 DevOps 协同平台，内置完整的 CI/CD 流程与项目管理。
 - [itzg/minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker Minecraft 私服一键部署镜像，高度自动化，支持多版本与模组。
 - [K3s](https://github.com/k3s-io/k3s) - 专为边缘与轻量硬件打造的极简 K8s 发行版，HomeLab 容器编排首选。
 - [NapCat](https://github.com/NapNeko/NapCatQQ) - 轻量 Linux QQ 机器人运行框架，无需桌面环境与扫码。
+- [Supabase](https://github.com/supabase/supabase) - 开源 Firebase 替代方案，一站式提供 PostgreSQL、身份认证、对象存储、实时订阅与 Edge Functions。
 
 ## 博客与社交
 - [Ghost](https://github.com/TryGhost/Ghost) - 基于 Node.js 的专业博客与媒体订阅平台，支持内容变现。
